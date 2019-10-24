@@ -19,7 +19,7 @@ If you have an idea for something you would like the working group to put energy
 
 ## Safety Patterns Catalogue
 
-The Safety Patterns Catalogue provides examples of how to implement common safety-critical architectural patterns in ROS 2.
+[The Safety Patterns Catalogue](safety_patterns_catalogue.html) provides examples of how to implement common safety-critical architectural patterns in ROS 2.
 For ideas on how to achieve things such as truly-redundant structures or voting-based reliability mechanisms, see this catalogue.
 
 If an architecture pattern you need or know is not in the catalogue, [make a pull request](https://github.com/ros2/safety_working_group/pulls) to add it!
