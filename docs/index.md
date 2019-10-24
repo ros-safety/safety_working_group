@@ -25,3 +25,5 @@ For ideas on how to achieve things such as truly-redundant structures or voting-
 If an architecture pattern you need or know is not in the catalogue, [make a pull request](https://github.com/ros2/safety_working_group/pulls) to add it!
 
 ## Working group meeting minutes
+
+- [24 October, 2019](meeting_minutes/20191024.md)
