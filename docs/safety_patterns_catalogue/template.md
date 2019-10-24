@@ -1,3 +1,4 @@
+```
 # Pattern name
 
 ## Abstract
@@ -44,3 +45,4 @@ Your pattern description must comply with the following formatting guidelines.
 - Follow the [GitHub Markdown guide](https://guides.github.com/features/mastering-markdown/).
 - One sentence per line.
 - Do not wrap sentences across multiple lines.
+```
