@@ -27,3 +27,4 @@ If an architecture pattern you need or know is not in the catalogue, [make a pul
 ## Working group meeting minutes
 
 - [24 October, 2019](meeting_minutes/20191024.md)
+- [21 November, 2019](meeting_minutes/20191121.md)
