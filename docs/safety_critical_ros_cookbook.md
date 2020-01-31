@@ -6,7 +6,7 @@ Its intended audience includes companies and developers who will be developing r
 
 ## Contents
 
-1. [Introduction](introduction.html)
+1. [Introduction](safety_critical_ros_cookbook/introduction.html)
 
 
 ## Contributing to the cookbook
