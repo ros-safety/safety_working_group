@@ -44,3 +44,5 @@ Contributions to the cookbook are welcome from anyone, so if you have a tip you 
 - [21 November, 2019](meeting_minutes/20191121.md)
 - [5 December, 2019](meeting_minutes/20191205.md)
 - [30 January, 2020](meeting_minutes/20200130.md)
+- [30 April, 2020](meeting_minutes/20200430.md)
+- [14 May, 2020](meeting_minutes/20200514.md)
