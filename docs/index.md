@@ -48,3 +48,4 @@ Contributions to the cookbook are welcome from anyone, so if you have a tip you 
 - [14 May, 2020](meeting_minutes/20200514.md)
 - [28 May, 2020](meeting_minutes/20200528.md)
 - [11 June, 2020](meeting_minutes/20200611.md)
+- [15 July, 2020](meeting_minutes/20200715.md)
