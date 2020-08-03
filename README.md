@@ -6,11 +6,11 @@ The Safety-Critical ROS Working Group's mission is to support the creation of ro
 
 This Working Group focuses on a mix of tools, libraries and documents.
 
-- We support the development of tools that can be applied to safety-critical system engineering.
+* We support the development of tools that can be applied to safety-critical system engineering.
   For example, our on-going project to improve the open-source Doorstop requirements management tool and integrate it with the ROS ecosystem.
-- We produce libraries, particularly re-usable nodes, that can be used to create robust systems.
+* We produce libraries, particularly re-usable nodes, that can be used to create robust systems.
   An example is the watchdog nodes created originally by Philipp Robbel and now maintained by this working group.
-- We produce documentation to educate and guide developers in creating more reliable or more available systems, in order to enable the creation of safer robots using ROS.
+* We produce documentation to educate and guide developers in creating more reliable or more available systems, in order to enable the creation of safer robots using ROS.
   The documentation includes tutorials, guidance documents, and best practices.
 
 ## Subprojects
@@ -22,45 +22,45 @@ Its meetings and membership are largely focused on the direction, design, and wo
 
 The following subprojects are owned by the Working Group.
 
-- Software Watchdogs
-  - A library of software watchdogs based on DDS Quality of Service (QoS) policies and ROS 2 life cycle nodes.
-  - Repositories
-    - https://github.com/ros2/software_watchdogs/
+* Software Watchdogs
+  * A library of software watchdogs based on DDS Quality of Service (QoS) policies and ROS 2 life cycle nodes.
+  * Repositories
+    * https://github.com/ros2/software_watchdogs/
 
-- Doorstop requirements tool extensions
-  - An open-source tool for managing and tracing requirements.
+* Doorstop requirements tool extensions
+  * An open-source tool for managing and tracing requirements.
     This Working Group is contributing to this tool in order to improve it.
     This Working Group is also working to integrate the creation and use of requirements, assisted by this tool, into ROS development activities.
-  - Repositories
-    - https://github.com/doorstop-dev/doorstop (not owned by the Working Group)
+  * Repositories
+    * https://github.com/doorstop-dev/doorstop (not owned by the Working Group)
 
-- Safety Patterns Catalogue
-  - A catalogue of software structures commonly-used in safety-critical systems, and sample implementations using ROS.
-  - Websites
-    - http://www.ros2.org/safety_working_group/safety_patterns_catalogue/
-  - Repositories
-    - https://github.com/ros2/safety_working_group/tree/master/safety_patterns_catalogue
+* Safety Patterns Catalogue
+  * A catalogue of software structures commonly-used in safety-critical systems, and sample implementations using ROS.
+  * Websites
+    * http://www.ros2.org/safety_working_group/safety_patterns_catalogue/
+  * Repositories
+    * https://github.com/ros2/safety_working_group/tree/master/safety_patterns_catalogue
 
-- Safety-Critical ROS Cookbook
-  - A collection of guidance on how to use ROS as part of building safe robots.
-  - Websites
-    - http://www.ros2.org/safety_working_group/safety_critical_ros_cookbook/
-  - Repositories
-    - https://github.com/ros2/safety_working_group/tree/master/safety_critical_ros_cookbook
+* Safety-Critical ROS Cookbook
+  * A collection of guidance on how to use ROS as part of building safe robots.
+  * Websites
+    * http://www.ros2.org/safety_working_group/safety_critical_ros_cookbook/
+  * Repositories
+    * https://github.com/ros2/safety_working_group/tree/master/safety_critical_ros_cookbook
 
 ### Standards for subprojects
 
 Subprojects must meet the following criteria (and the Working Group agrees to maintain them upon adoption).
 
-- Build passes against ROS 2 master
-- The ROS 2 standard linter set is enabled and adhered to
-- If packages are part of nightly builds on the ROS build farm, there are no reported warnings or test failures
-- Quality builds are green (address sanitizer, thread sanitizer, clang thread safety analysis)
-- Test suite passes
-- Code coverage is measured, and non-decreasing level is enforced in PRs
-- Issues and pull requests receive prompt responses
-- Releases go out regularly when bugfixes or new features are introduced
-- The backlog is maintained, avoiding longstanding stale issues
+* Build passes against ROS 2 master
+* The ROS 2 standard linter set is enabled and adhered to
+* If packages are part of nightly builds on the ROS build farm, there are no reported warnings or test failures
+* Quality builds are green (address sanitizer, thread sanitizer, clang thread safety analysis)
+* Test suite passes
+* Code coverage is measured, and non-decreasing level is enforced in PRs
+* Issues and pull requests receive prompt responses
+* Releases go out regularly when bugfixes or new features are introduced
+* The backlog is maintained, avoiding longstanding stale issues
 
 ### Adding new subprojects
 
@@ -92,12 +92,12 @@ If the repositories of the subproject are under the WG's GitHub organization, th
 
 ### Meetings
 
-- Regular Working Group Meeting: On the first and third Wednesdays of the month at 14:00 UTC for one hour
-  - Meetings are scheduled in the [ROS Events Calendar](https://calendar.google.com/calendar/embed?src=agf3kajirket8khktupm9go748%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+* Regular Working Group Meeting: On the first and third Wednesdays of the month at 14:00 UTC for one hour
+  * Meetings are scheduled in the [ROS Events Calendar](https://calendar.google.com/calendar/embed?src=agf3kajirket8khktupm9go748%40group.calendar.google.com&ctz=America%2FLos_Angeles).
     This is the most reliable method to find the next meeting time.
     To get automated invitations to the Working Group meetings, join the [Working Group's invite group](https://groups.google.com/forum/#!forum/ros-safety-working-group-invites).
     Meetings are also announced on Discourse using the [`wg-safety-critical` tag](https://discourse.ros.org/tags/wg-safety-critical).
-  - Minutes of each Working Group meeting are posted in this repository and at the [generated website](http://www.ros2.org/safety_working_group/meeting_minutes/).
+  * Minutes of each Working Group meeting are posted in this repository and at the [generated website](http://www.ros2.org/safety_working_group/meeting_minutes/).
 
 ### Communication Channels
 
