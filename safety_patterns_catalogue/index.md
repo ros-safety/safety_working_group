@@ -2,6 +2,8 @@
 
 The safety patterns catalogue provides architectural descriptions and, in some cases, sample code for implementing commonly-used safety-critical architectural patterns in ROS.
 
+If an architecture pattern you know is not in the catalogue, [make a pull request](https://github.com/ros2/safety_working_group/pulls) to add it!
+
 # Patterns
 
 - [1oo2 voting pattern](safety_patterns_catalogue/1oo2.md)
