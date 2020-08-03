@@ -22,31 +22,32 @@ Its meetings and membership are largely focused on the direction, design, and wo
 
 The following subprojects are owned by the Working Group.
 
-* Software Watchdogs
+* [Software Watchdogs](https://github.com/ros2/software_watchdogs/)
   * A library of software watchdogs based on DDS Quality of Service (QoS) policies and ROS 2 life cycle nodes.
   * Repositories
     * https://github.com/ros2/software_watchdogs/
 
-* Doorstop requirements tool extensions
+* [Doorstop requirements tool - extensions for ROS](https://github.com/doorstop-dev/doorstop)
   * An open-source tool for managing and tracing requirements.
+    The tool itself is not owned by this Working Group.
     This Working Group is contributing to this tool in order to improve it.
     This Working Group is also working to integrate the creation and use of requirements, assisted by this tool, into ROS development activities.
   * Repositories
     * https://github.com/doorstop-dev/doorstop (not owned by the Working Group)
 
-* Safety Patterns Catalogue
+* [Safety Patterns Catalogue](http://www.ros2.org/safety_working_group/safety_patterns_catalogue/)
   * A catalogue of software structures commonly-used in safety-critical systems, and sample implementations using ROS.
   * Websites
-    * http://www.ros2.org/safety_working_group/safety_patterns_catalogue/
+    * [http://www.ros2.org/safety_working_group/safety_patterns_catalogue/](http://www.ros2.org/safety_working_group/safety_patterns_catalogue/)
   * Repositories
-    * https://github.com/ros2/safety_working_group/tree/master/safety_patterns_catalogue
+    * [https://github.com/ros2/safety_working_group/tree/master/safety_patterns_catalogue](https://github.com/ros2/safety_working_group/tree/master/safety_patterns_catalogue)
 
-* Safety-Critical ROS Cookbook
+* [Safety-Critical ROS Cookbook](http://www.ros2.org/safety_working_group/safety_critical_ros_cookbook/)
   * A collection of guidance on how to use ROS as part of building safe robots.
   * Websites
-    * http://www.ros2.org/safety_working_group/safety_critical_ros_cookbook/
+    * [http://www.ros2.org/safety_working_group/safety_critical_ros_cookbook/](http://www.ros2.org/safety_working_group/safety_critical_ros_cookbook/)
   * Repositories
-    * https://github.com/ros2/safety_working_group/tree/master/safety_critical_ros_cookbook
+    * [https://github.com/ros2/safety_working_group/tree/master/safety_critical_ros_cookbook](https://github.com/ros2/safety_working_group/tree/master/safety_critical_ros_cookbook)
 
 ### Standards for subprojects
 
