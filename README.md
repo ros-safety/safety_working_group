@@ -1,6 +1,6 @@
 # Safety-Critical ROS Working Group
 
-This document defines the scope and governance of the Working Group (WG).
+This document defines the scope and governance of the Safety-Critical ROS Working Group (WG).
 
 The Safety-Critical ROS Working Group's mission is to support the creation of robots and other systems using ROS that are safe.
 
