@@ -1,4 +1,4 @@
-# Safety-Critical ROS Working Group
+# ROS 2 Safety-Critical Working Group
 
 This document defines the scope and governance of the Safety-Critical ROS Working Group (WG).
 
