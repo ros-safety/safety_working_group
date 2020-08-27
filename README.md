@@ -35,17 +35,17 @@ The following subprojects are owned by the Working Group.
   * Repositories
     * https://github.com/doorstop-dev/doorstop (not owned by the Working Group)
 
-* [Safety Patterns Catalogue](http://www.ros2.org/safety_working_group/safety_patterns_catalogue/)
+* [Safety Patterns Catalogue](http://ros-safety.github.io/safety_working_group/safety_patterns_catalogue/)
   * A catalogue of software structures commonly-used in safety-critical systems, and sample implementations using ROS.
   * Websites
-    * [http://www.ros2.org/safety_working_group/safety_patterns_catalogue/](http://www.ros2.org/safety_working_group/safety_patterns_catalogue/)
+    * [http://ros-safety.github.io/safety_working_group/safety_patterns_catalogue/](http://ros-safety.github.io/safety_working_group/safety_patterns_catalogue/)
   * Repositories
     * [https://github.com/ros2/safety_working_group/tree/master/safety_patterns_catalogue](https://github.com/ros2/safety_working_group/tree/master/safety_patterns_catalogue)
 
-* [Safety-Critical ROS Cookbook](http://www.ros2.org/safety_working_group/safety_critical_ros_cookbook/)
+* [Safety-Critical ROS Cookbook](http://ros-safety.github.io/safety_working_group/safety_critical_ros_cookbook/)
   * A collection of guidance on how to use ROS as part of building safe robots.
   * Websites
-    * [http://www.ros2.org/safety_working_group/safety_critical_ros_cookbook/](http://www.ros2.org/safety_working_group/safety_critical_ros_cookbook/)
+    * [http://ros-safety.github.io/safety_working_group/safety_critical_ros_cookbook/](http://ros-safety.github.io/safety_working_group/safety_critical_ros_cookbook/)
   * Repositories
     * [https://github.com/ros2/safety_working_group/tree/master/safety_critical_ros_cookbook](https://github.com/ros2/safety_working_group/tree/master/safety_critical_ros_cookbook)
 
@@ -98,7 +98,7 @@ If the repositories of the subproject are under the WG's GitHub organization, th
     This is the most reliable method to find the next meeting time.
     To get automated invitations to the Working Group meetings, join the [Working Group's invite group](https://groups.google.com/forum/#!forum/ros-safety-working-group-invites).
     Meetings are also announced on Discourse using the [`wg-safety-critical` tag](https://discourse.ros.org/tags/wg-safety-critical).
-  * Minutes of each Working Group meeting are posted in this repository and at the [generated website](http://www.ros2.org/safety_working_group/meeting_minutes/).
+  * Minutes of each Working Group meeting are posted in this repository and at the [generated website](http://ros-safety.github.io/safety_working_group/meeting_minutes/).
 
 ### Communication Channels
 
