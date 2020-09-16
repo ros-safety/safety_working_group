@@ -22,7 +22,7 @@ Its meetings and membership are largely focused on the direction, design, and wo
 
 The following subprojects are owned by the Working Group.
 
-* [Software Watchdogs](https://github.com/ros2/software_watchdogs/)
+* [Software Watchdogs](https://github.com/ros-safety/software_watchdogs/)
   * A library of software watchdogs based on DDS Quality of Service (QoS) policies and ROS 2 life cycle nodes.
   * Repositories
     * https://github.com/ros2/software_watchdogs/
