@@ -25,7 +25,12 @@ The following subprojects are owned by the Working Group.
 * [Software Watchdogs](https://github.com/ros-safety/software_watchdogs/)
   * A library of software watchdogs based on DDS Quality of Service (QoS) policies and ROS 2 life cycle nodes.
   * Repositories
-    * https://github.com/ros2/software_watchdogs/
+    * https://github.com/ros-safety/software_watchdogs
+    
+* [C++ contracts](https://github.com/ros-safety/contracts_lite)
+  * A library for defining and enforcing contracts.
+  * Repositories
+    * https://github.com/ros-safety/contracts_lite
 
 * [Doorstop requirements tool - extensions for ROS](https://github.com/doorstop-dev/doorstop)
   * An open-source tool for managing and tracing requirements.
@@ -40,14 +45,14 @@ The following subprojects are owned by the Working Group.
   * Websites
     * [http://ros-safety.github.io/safety_working_group/safety_patterns_catalogue/](http://ros-safety.github.io/safety_working_group/safety_patterns_catalogue/)
   * Repositories
-    * [https://github.com/ros2/safety_working_group/tree/master/safety_patterns_catalogue](https://github.com/ros2/safety_working_group/tree/master/safety_patterns_catalogue)
+    * [https://github.com/ros-safety/safety_working_group/tree/master/safety_patterns_catalogue](https://github.com/ros2/safety_working_group/tree/master/safety_patterns_catalogue)
 
 * [Safety-Critical ROS Cookbook](http://ros-safety.github.io/safety_working_group/safety_critical_ros_cookbook/)
   * A collection of guidance on how to use ROS as part of building safe robots.
   * Websites
     * [http://ros-safety.github.io/safety_working_group/safety_critical_ros_cookbook/](http://ros-safety.github.io/safety_working_group/safety_critical_ros_cookbook/)
   * Repositories
-    * [https://github.com/ros2/safety_working_group/tree/master/safety_critical_ros_cookbook](https://github.com/ros2/safety_working_group/tree/master/safety_critical_ros_cookbook)
+    * [https://github.com/ros-safety/safety_working_group/tree/master/safety_critical_ros_cookbook](https://github.com/ros2/safety_working_group/tree/master/safety_critical_ros_cookbook)
 
 ### Standards for subprojects
 
