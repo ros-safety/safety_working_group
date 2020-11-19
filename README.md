@@ -24,11 +24,13 @@ The following subprojects are owned by the Working Group.
 
 * [Software Watchdogs](https://github.com/ros-safety/software_watchdogs/)
   * A library of software watchdogs based on DDS Quality of Service (QoS) policies and ROS 2 life cycle nodes.
+  * A presentation including this library is [available here](https://raw.githubusercontent.com/ros-safety/safety_working_group/main/presentations/Mapless%20AI%20-%20Autoware%20Workshop%20Presentation%20IV2020.pdf).
   * Repositories
     * https://github.com/ros-safety/software_watchdogs
     
 * [C++ contracts](https://github.com/ros-safety/contracts_lite)
   * A library for defining and enforcing contracts.
+  * A presentation including this library is [available here](https://raw.githubusercontent.com/ros-safety/safety_working_group/main/presentations/Mapless%20AI%20-%20Autoware%20Workshop%20Presentation%20IV2020.pdf).
   * Repositories
     * https://github.com/ros-safety/contracts_lite
 
